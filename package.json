@@ -1,0 +1,27 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongming2016/schedule-handler.git"
+  },
+  "author": "chen min",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongming2016/schedule-handler/issues"
+  },
+  "homepage": "https://github.com/dongming2016/schedule-handler#readme",
+  "dependencies": {
+    "node-xlsx": "^0.12.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
